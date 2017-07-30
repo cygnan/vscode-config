@@ -1,0 +1,51 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontSize": 20,
+    "editor.fontFamily": "Osaka－等幅",
+    "editor.fontWeight": "normal",
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "none",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": true,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.cursorBlinking": "phase",
+    "editor.mouseWheelZoom": true,
+    "editor.dragAndDrop": true,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "git.countBadge": "all",
+    "editor.rulers": [
+        0,
+        80
+    ],
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.welcome.enabled": false,
+    "editor.renderIndentGuides": true,
+    "editor.renderLineHighlight": "line",
+    "javascript.implicitProjectConfig.checkJs": false,
+    "workbench.colorCustomizations": {
+        "activityBar.foreground": "#FFFFCC",
+        "activityBarBadge.background": "#888866"
+    },
+    "python.autoComplete.extraPaths": [
+        "C:\\Program Files (x86)\\Google\\google_appengine"
+    ],
+    "python.linting.lintOnTextChange": true,
+    "files.associations": {
+        "*.dcm": "vb"
+    },
+    "extensions.autoUpdate": false,
+    "jshint.options": {
+        "esversion": 6
+    }
+}
