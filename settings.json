@@ -41,7 +41,8 @@
     ],
     "python.linting.lintOnTextChange": true,
     "files.associations": {
-        "*.dcm": "vb"
+        "*.dcm": "vb",
+        "*.gs": "javascript"
     },
     "extensions.autoUpdate": false,
     "jshint.options": {
