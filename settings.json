@@ -47,5 +47,7 @@
     "extensions.autoUpdate": false,
     "jshint.options": {
         "esversion": 6
-    }
+    },
+    "r.rterm.windows": "C:\\Program Files\\R\\R-3.4.1\\bin\\x64",
+    "r.source.encoding": "UTF-8"
 }
