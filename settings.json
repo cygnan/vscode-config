@@ -49,5 +49,6 @@
         "esversion": 6
     },
     "r.rterm.windows": "C:\\Program Files\\R\\R-3.4.1\\bin\\x64",
-    "r.source.encoding": "UTF-8"
+    "r.source.encoding": "UTF-8",
+    "files.eol": "\n"
 }
