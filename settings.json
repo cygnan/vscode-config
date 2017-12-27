@@ -39,7 +39,8 @@
     "python.autoComplete.extraPaths": [
         "C:\\Program Files (x86)\\Google\\google_appengine"
     ],
-    "python.linting.lintOnTextChange": true,
+    "python.linting.lintOnSave": true,
+    "files.autoSave": "off",
     "files.associations": {
         "*.dcm": "vb",
         "*.gs": "javascript"
